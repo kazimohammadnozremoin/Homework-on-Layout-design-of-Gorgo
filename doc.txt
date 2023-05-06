@@ -1,0 +1,18 @@
+color:
+
+logo:
+
+
+orange:#ff6162
+blue:#292640
+
+
+font color menubar:
+ash:#c3c2ca
+light ash:#c3c2c9
+
+blue:#7f7d8c
+
+Price logo color:
+orange:#ff6162
+white:#fff5f5
